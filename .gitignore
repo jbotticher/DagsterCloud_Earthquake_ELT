@@ -1,0 +1,6 @@
+App/airbyte/
+.env
+App/.pytest_cache
+**/misc/
+.DS_Store
+**/logs/
