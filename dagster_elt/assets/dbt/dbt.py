@@ -4,12 +4,8 @@ from dagster_dbt import DbtCliResource, dbt_assets
 from dagster import OpExecutionContext
 
 # configure dbt project resource
-dbt_project_dir = Path(__file__).joinpath("..", "..", "..", "..","..", "dbt_earthquake", "warehouse").resolve()
+dbt_project_dir = Path(__file__).joinpath("..", "..", "..", "dbt_earthquake", "warehouse").resolve()
 dbt_warehouse_resource = DbtCliResource(project_dir=os.fspath(dbt_project_dir))
-
-
-# DBT_DIRECTORY = Path(__file__).joinpath("..", "..", "..", "..","..", "dbt_earthquake", "warehouse").resolve()
-# dbt_manifest_path_static = os.path.join(DBT_DIRECTORY, "target", "manifest.json")
 
 
 
