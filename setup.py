@@ -8,7 +8,8 @@ setup(
         "dagster-cloud",
         "dagster-dbt",          
         "dbt-core==1.7.2",        
-        "dbt-snowflake==1.7.2"
+        "dbt-snowflake==1.7.2",
+        "boto3"
     ],
     extras_require={"dev": ["dagster-webserver", "pytest"]},
 )
