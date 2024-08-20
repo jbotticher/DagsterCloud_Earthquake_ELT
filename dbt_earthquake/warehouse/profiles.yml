@@ -5,8 +5,8 @@ dbt_earthquake:
     dev:
       type: snowflake
       account: LRKONNZ-EPB14671
-      user: 
-      password: 
+      user: "{{ env_var('DBT_SNOWFLAKE_USER') }}"
+      password: "{{ env_var('DBT_SNOWFLAKE_PASSWORD') }}"
       role: accountadmin
       database: earthquake
       warehouse: 
