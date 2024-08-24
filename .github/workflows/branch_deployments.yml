@@ -1,7 +1,8 @@
 name: Serverless Branch Deployments
 on:
-  pull_request:
-    types: [opened, synchronize, reopened, closed]
+  push:
+    branches:
+      - dagster-dev
     
 concurrency:
   # Cancel in-progress deploys to same branch
@@ -12,7 +13,7 @@ env:
   DAGSTER_CLOUD_API_TOKEN: ${{ secrets.DAGSTER_CLOUD_API_TOKEN }}
   ENABLE_FAST_DEPLOYS: 'false'
   PYTHON_VERSION: '3.11'
-  DAGSTER_CLOUD_FILE: 'dagster_cloud.yaml'
+  DAGSTER_CLOUD_FILE: 'dagster_cloud_dev.yaml'
 
 jobs:
   dagster_cloud_default_deploy:
