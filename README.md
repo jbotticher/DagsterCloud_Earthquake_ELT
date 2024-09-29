@@ -34,4 +34,5 @@ The objective of this project is to create a real-time monitoring system that vi
 1) Clone this repo.
 2) Deploy Airbyte on an AWS EC2 Instance. Airbyte deployment docs: https://docs.airbyte.com/deploying-airbyte/on-aws-ec2
 3) Create a Dagster cloud account and connect your Github repo to Dagster. Dagster cloud deployment docs: https://docs.dagster.io/deployment/open-source.
-4) Update environment variable in Dagster and Snowflake login info (dbt_earthquake->profiles.yml).
+4) Create an AWS account and create an S3 bucket. See AWS docs: https://docs.aws.amazon.com/AmazonS3/latest/userguide/GetStartedWithS3.html#creating-bucket
+5) Update environment variable in Dagster and Snowflake login info (dbt_earthquake->profiles.yml).
