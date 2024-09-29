@@ -1,5 +1,4 @@
-# https://github.com/Data-Engineer-Camp/2024-04-bootcamp/blob/main/admin/dec-logo.png![image](https://github.com/user-attachments/assets/4a0d32b9-0e11-4e90-b5b2-ffefffdb5aa3)
- [Data Engineer Camp](https://dataengineercamp.com): Capstone Project
+# ![dataengineercamp_logo](https://github.com/user-attachments/assets/5e669390-1404-4b18-9380-6cc2ac2a5e39) [Data Engineer Camp](https://dataengineercamp.com): Capstone Project
 
 ## **Earthquakes ELT: Production Version**
 Author: _Joshua Botticher_
