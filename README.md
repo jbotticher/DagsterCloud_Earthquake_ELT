@@ -1,3 +1,6 @@
+
+![93BF8E32-0116-44E2-AC40-6C96227D3B05_1_105_c](https://github.com/user-attachments/assets/59acd090-1585-489a-a647-c84a9aceca05)
+
 # ![dataengineercamp_logo](https://github.com/user-attachments/assets/5e669390-1404-4b18-9380-6cc2ac2a5e39) 
 # [Data Engineer Camp](https://dataengineercamp.com): Capstone Project
 
