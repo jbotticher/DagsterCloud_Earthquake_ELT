@@ -2,7 +2,7 @@
 
 ## **Earthquakes ELT: Production Version**
 Author: _Joshua Botticher_
-**For Local code version, see Local_Earthquake_ELT repo**
+** For Local code version, see Local_Earthquake_ELT repo **
 
 ## Objective:
 The objective of this project is to create a real-time monitoring system that visualizes earthquake data, and dashboards using historical data from the USGS Earthquake API for public use.
