@@ -7,7 +7,7 @@ Author: _Joshua Botticher_
 ** See Local_Earthquake_ELT repo for Local code version **
 
 ## Objective:
-The objective of this project is to create a real-time monitoring system that visualizes earthquake data, and dashboards using historical data from the USGS Earthquake API for public use.
+The purpose of this project was to put in use all of the skills and tools I have learned during the past 16 weeks as a student in Data Engineer Camp's botcamp. The objective of this project is to create a real-time monitoring system that visualizes earthquake data, and dashboards using historical data from the USGS Earthquake API for public use.
 
 ## Consumers:
 - Researchers: They use the data for analyzing seismic activity patterns and predicting future events.
