@@ -25,4 +25,5 @@ The objective of this project is to create a real-time monitoring system that vi
 
 
 ## Architecture:
-![prod_earthquakes drawio](https://github.com/user-attachments/assets/5b36a385-9fe9-4a16-bd2d-b3186f83179d)
+![architecture_earthquakes drawio](https://github.com/user-attachments/assets/f4939cfb-157a-4123-925b-1a5f53ab6579)
+
