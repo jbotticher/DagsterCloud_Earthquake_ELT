@@ -12,7 +12,7 @@ The objective of this project is to create a real-time monitoring system that vi
 - Educators: They require the data to teach seismic activity and its impacts.
 - General Public: They seek to understand earthquake risks and safety measures.
 
-## Questions We Want To Answer:
+## Questions I Want To Answer:
 1) What are the most recent earthquakes and their magnitudes?
 2) Which regions are experiencing the highest frequency of earthquakes?
 3) What are the patterns and trends in seismic activity over the past year?
