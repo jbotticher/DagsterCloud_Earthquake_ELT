@@ -1,7 +1,7 @@
 # Data Engineering Camp Capstone Project
 
 ## **Earthquakes ELT**
-_Joshua Botticher_
+Author: _Joshua Botticher_
 
 ## Objective:
 The objective of this project is to create a real-time monitoring system that visualizes earthquake data, and dashboards using historical data from the USGS Earthquake API for public use.
