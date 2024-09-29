@@ -27,4 +27,9 @@ The objective of this project is to create a real-time monitoring system that vi
 ## Architecture:
 ![architecture_earthquakes drawio-2](https://github.com/user-attachments/assets/30416493-e6cd-4531-9c23-70e9d336245e)
 
+##Instructions:
 
+1) Clone this repo.
+2) Deploy Airbyte on an AWS EC2 Instance. Airbyte deployment docs: https://docs.airbyte.com/deploying-airbyte/on-aws-ec2
+3) Create a Dagster cloud account and connect your Github repo to Dagster. Dagster cloud deployment docs: https://docs.dagster.io/deployment/open-source.
+4) Update environment variable in Dagster and Snowflake login info (dbt_earthquake->profiles.yml).
